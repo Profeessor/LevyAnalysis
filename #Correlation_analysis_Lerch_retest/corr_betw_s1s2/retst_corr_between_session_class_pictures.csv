@@ -1,0 +1,2 @@
+Experiment,corr_type,corr_v1_mean,corr_v2_mean,corr_zr_mean,corr_a_mean,corr_ndt_mean,corr_sndt_mean,corr_alpha_mean,corr_v_total = v2 - v1,corr_v_bias = v2 + v1
+class_pictures,between session,0.664,0.718,0.455,0.768,0.535,0.486,0.28,0.786,0.433

@@ -1,0 +1,6 @@
+,a_mean,v1_mean,v2_mean,ndt_mean,alpha_mean
+ave_['v1_mean'],0.32,,-0.72,-0.14,0.17
+ave_['v2_mean'],-0.39,-0.72,,0.16,-0.17
+ave_['a_mean'],,0.32,-0.39,-0.16,0.32
+ave_['ndt_mean'],-0.16,-0.14,0.16,,0.48
+ave_['alpha_mean'],0.32,0.17,-0.17,0.48,

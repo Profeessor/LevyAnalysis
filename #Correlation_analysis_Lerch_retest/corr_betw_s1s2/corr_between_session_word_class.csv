@@ -1,0 +1,2 @@
+Experiment,corr_type,corr_v1_mean,corr_v2_mean,corr_zr_mean,corr_a_mean,corr_ndt_mean,corr_sndt_mean,corr_alpha_mean,corr_v_total = v2 - v1,corr_v_bias = v2 + v1
+class_words,between session,0.7774065307248104,0.7041596659349844,0.5484943051961414,0.8212620679169257,0.6129133350655249,0.6897878159062193,0.6257143858868378,0.8617212138846142,0.4316175312371966
