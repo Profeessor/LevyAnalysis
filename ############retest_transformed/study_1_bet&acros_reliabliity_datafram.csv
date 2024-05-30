@@ -1,0 +1,14 @@
+,LDT_Bet_session,RMT_Bet_session,across_s1,across_s2
+v1_mean,0.755,0.72,0.232,0.252
+v2_mean,0.759,0.65,0.109,0.329
+v_total = v2_mean - v1_mean,0.86,0.746,0.186,0.323
+v_bias = v1_mean + v2_mean,0.46,0.407,0.118,0.12
+zr_mean,0.571,0.444,0.259,0.28
+a_mean,0.766,0.672,0.536,0.477
+ndt_mean,0.537,0.533,0.343,0.486
+sndt_mean,0.635,0.456,0.206,0.242
+alpha_mean,0.56,0.123,0.117,0.33
+accuracy_percentage,0.885,0.801,0.369,0.343
+mean_log_rt,0.758,0.697,0.454,0.507
+alpha_mean_boxcox_after_arcsin,0.602,0.261,0.218,0.257
+accuracy_percentage_boxcox_after_arcsin,0.892,0.771,0.338,0.366
